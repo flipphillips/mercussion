@@ -59,7 +59,8 @@
 				".svn",
 				".git",
 				".hg",
-				"CVS"
+				"CVS",
+				"__pycache__"
 			],
 			"path": "."
 		}
